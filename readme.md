@@ -9,3 +9,7 @@
 #### 对于使用CASC的魔兽版本（v1.30 - v1.31）：
 
 ​	魔兽目录下新建zhcn-war3local.mpq目录，将这两个文件夹放到该目录下
+
+
+
+[1.30.4中文语音版](pan.baidu.com/s/1WnJAv4TdHdj10EcApHwsIw) 提取码：fg4i
