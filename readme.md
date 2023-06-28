@@ -12,4 +12,4 @@
 
 
 
-[1.30.4中文语音版](pan.baidu.com/s/1WnJAv4TdHdj10EcApHwsIw) 提取码：fg4i
+[1.30.4中文语音版](https://pan.baidu.com/s/1WnJAv4TdHdj10EcApHwsIw) 提取码：fg4i
